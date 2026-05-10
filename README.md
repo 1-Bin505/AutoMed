@@ -7,6 +7,9 @@
 ## DEMO and Introduction
 https://drive.google.com/file/d/11yJ7uIOrExlckj9KQsD6GVf13QD9nXsn/view?usp=sharing
 
+## Yoututbe link
+https://youtu.be/cJqu1plK6OY
+
 ## Overview
 
 TB-DST is a Streamlit application that accepts *M. tuberculosis* whole-genome sequences (FASTA) and returns:
