@@ -22,8 +22,8 @@ The pipeline connects five Python modules: a sequence processor, an ML inference
 
 ```
 .
-├── app.py
-|-- pages           # Single-page Streamlit entry point (recommended)
+├── app.py            # Single-page Streamlit entry point (recommended)
+|-- pages           
 |    ├── intro.py          # Multi-page variant — Page 1: Upload & run
 |    ├── diagnostics.py    # Multi-page variant — Page 2: Deep diagnostics
 ├── processor.py      # FASTA parsing and per-gene variant extraction
